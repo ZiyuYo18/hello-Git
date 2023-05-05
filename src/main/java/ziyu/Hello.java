@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("分支更新！");
 		System.out.println("分支更新！");
 		System.out.println("dev更新！");
+		System.out.println("dev更新！");
 		return  name;
 	}
 }
