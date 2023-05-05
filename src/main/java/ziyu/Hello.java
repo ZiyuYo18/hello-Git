@@ -14,6 +14,7 @@ public class Hello {
 		System.out.println("提交之前更新！");
 		System.out.println("提交之前更新！");
 		System.out.println("第二次提交之前更新！");
+		System.out.println("其他人员修改更新！");
 		return  name;
 	}
 }
