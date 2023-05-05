@@ -11,6 +11,7 @@ public class Hello {
 		System.out.println("dev更新！");
 		System.out.println("master更新！");
 		System.out.println("master更新！");
+		System.out.println("其他人员修改更新！");
 		return  name;
 	}
 }
