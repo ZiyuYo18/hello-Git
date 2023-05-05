@@ -10,6 +10,7 @@ public class Hello {
 		System.out.println("dev更新！");
 		System.out.println("dev更新！");
 		System.out.println("master更新！");
+		System.out.println("master更新！");
 		return  name;
 	}
 }
