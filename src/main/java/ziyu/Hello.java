@@ -11,6 +11,9 @@ public class Hello {
 		System.out.println("dev更新！");
 		System.out.println("master更新！");
 		System.out.println("master更新！");
+		System.out.println("提交之前更新！");
+		System.out.println("提交之前更新！");
+		System.out.println("第二次提交之前更新！");
 		return  name;
 	}
 }
